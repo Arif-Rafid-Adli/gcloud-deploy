@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  
+  },
+  "scripts": {
+    "start": "node server.js",
+    "deploy" : "google app deploy"
+  },
+  "name": "web-profile",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "Apache-2.0"
+}
